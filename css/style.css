@@ -46,3 +46,15 @@ font-weight: 700;
 .service-card img{
     width: 20%;
 }
+
+.section-img img{
+width: 100%;
+
+
+}
+
+.section-img{
+    height: 500px;
+    overflow: hidden;
+    
+}
