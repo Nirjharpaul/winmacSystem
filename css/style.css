@@ -1,13 +1,21 @@
-
-
+.body{
+    font-family: 'Roboto', sans-serif;
+}
 
 .btncolor{
     background-color: #76bd81;
     width: 100px;
-    height: 40px;
+    height: 35px;
     border: 0;
+    border-radius: 4px;
     color: white;
 
+}
 
+.navfont{
+font-weight: 700;
+}
 
+.slider-section img{
+    width: 100%;
 }
