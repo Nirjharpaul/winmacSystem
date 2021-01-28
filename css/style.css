@@ -18,4 +18,23 @@ font-weight: 700;
 
 .slider-section img{
     width: 100%;
+    
+   
+}
+
+.caption{
+    margin-bottom: 300px;
+    font-size: 60px;
+    font-weight: 600;
+    
+}
+.caption h5,p{
+    color: black;
+}
+.second-section-head{
+    margin-top: 80px;
+    
+}
+second-section-para{
+    text-align: justify;
 }
